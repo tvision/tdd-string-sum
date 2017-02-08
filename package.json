@@ -2,6 +2,9 @@
   "description": "TDD String Sum Kata",
   "license": "MIT",
   "repository": "git@github.com:tvision/tdd-string-sum.git",
+  "scripts": {
+    "test": "jasmine"
+  },
   "devDependencies": {
     "jasmine": "^2.5.3"
   }
