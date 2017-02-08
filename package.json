@@ -1,0 +1,8 @@
+{
+  "description": "TDD String Sum Kata",
+  "license": "MIT",
+  "repository": "git@github.com:tvision/tdd-string-sum.git",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
